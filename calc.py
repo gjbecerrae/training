@@ -1,6 +1,14 @@
+def add(x,y):
+	pass
 
-def sub:
- pass
+def subtract(x,y):
+	return x-y
 
-def add:
- pass
+def multiply(x,y):
+	pass
+
+def divide(x,y):
+	return x/y
+
+def square(x):
+	return x*x
