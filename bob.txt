@@ -1,6 +1,7 @@
-El bitcoin es mucho más que una moneda virtual; es la criptomoneda que más ha crecido en todo el mundo; solamente en un año, se ha revalorizado un 1.200%.
+El bitcoin es mucho mÃ¡s que una moneda virtual; es la criptomoneda que mÃ¡s ha crecido en todo el mundo; solamente en un aÃ±o, se ha revalorizado un 1.200%.
 
-Una inversión de US$6.000 en bitcoins hace siete años vale hoy US$1.100 millones, según el analista Charlie Bill, de Pension Partner.
+Una inversiÃ³n de US$6.000 en bitcoins hace siete aÃ±os vale hoy US$1.100 millones, segÃºn el analista Charlie Bill, de Pension Partner.
 
 extra line in branch
 master
+testmerge
